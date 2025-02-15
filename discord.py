@@ -1,8 +1,7 @@
 import os
 import requests
 from flask import Flask, request, jsonify
-import discord
-from discord import commands
+from discord import commands, discord
 import asyncio
 
 # Configuración
